@@ -1,3 +1,4 @@
+//@ts
 // Import necessary data and constants
 import { authors, genres, books, BOOKS_PER_PAGE } from './data.js';
 
